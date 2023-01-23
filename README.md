@@ -65,6 +65,8 @@ Using Matplotlib, generate a box plot that shows the distribution of the final t
 **Create a Line Plot and a Scatter Plot**
 Select a mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
 
+![My Image](Image%20Graphs/Line%20Plots.png?raw=true)
+
 Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 
 ![My Image](Image%20Graphs/Capomulin%20Tumor%20vs%20Weight.png?raw=true)
