@@ -29,11 +29,12 @@ Generate two bar charts. Both charts should be identical and show the total numb
 
 Create the first bar chart with the Pandas DataFrame.plot() method.
 
-![My Image](Image%20Graphs/Drug%20Regimen%20Bar%20Chart.png?raw=true)
+![My Image](Image%20Graphs/Drug%20Regimen%20Pandas%20Bar%20Chart.png?raw=true)
+
 
 Create the second bar chart with Matplotlib's pyplot methods.
 
-![My Image]
+![My Image](Image%20Graphs/Drug%20Regimen%20Bar%20Chart.png?raw=true)
 
 Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
 
