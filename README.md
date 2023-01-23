@@ -1,4 +1,4 @@
-#pymaceuticals#
+**PYMACEUTICALS**
 
 ![My Image](Image%20Graphs/READ%20ME%20Image%20animal-testing-hero.jpg?raw=true)
 
